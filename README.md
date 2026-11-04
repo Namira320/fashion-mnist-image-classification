@@ -4,6 +4,12 @@ This project is a deep learning implementation for image classification using th
 
 ---
 
+> 📜 **Certification Context:** This project was developed as the final submission for the **Deep Learning Fundamentals** class in the **Dicoding Asah** program.
+> 
+> [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](Deep-Learning-Fundamentals.pdf)
+
+---
+
 ## 📚 1. Prerequisites & Libraries
 The project requires the following libraries imported in the environment:
 * `os`, `json`
